@@ -24,7 +24,7 @@ For this I've develop:
 
 ![Panel](assets/termidor-mipsel.png)
 
-
+[Shuriken Hacks](https://www.youtube.com/@shurikenhacks) and [Shuriken Hacks - Build a $23 Wi-Fi Pineapple in 6 Minutes — EASIEST Method!](https://www.youtube.com/watch?app=desktop&v=udnxagkSzoA)
 ## Builds
 
 You can find the complete steps to build this project in [this document](build.md). I have also added several important notes that will help you to try porting to other devices.
